@@ -1,0 +1,35 @@
+{
+    "path": "E:\\\u6811\u9708\u9633\\Python\\\u6e38\u620f\u5e7b\u60f3/recs/level/level_test.json",
+    "name": "level_test",
+    "rec": {},
+    "bg": null,
+    "spawn_point": [
+        0,
+        0
+    ],
+    "preentities": [
+        [
+            "Room",
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            "Room",
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    ],
+    "commands": {
+        "setup": "print setup\nvar a 1",
+        "loop": "print loop\nvar b 22",
+        "0,0": "print 0,0"
+    }
+}
